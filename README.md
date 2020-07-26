@@ -8,7 +8,7 @@ Flask
 OpenCV
 
 Then activate that environment and navigate to your project folder using Anaconda Prompt.
-In the project, type the follwing commands:
+In the project folder, type the follwing commands:
 
 pip install pipenv
 
