@@ -14,6 +14,7 @@ pip install pipenv
 pipenv install
 
 python main.py
+
 Then open the browser and go to 127.0.0.1:5000.
 
 You will see your program running.
