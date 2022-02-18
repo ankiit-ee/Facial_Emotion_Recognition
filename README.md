@@ -10,11 +10,11 @@ OpenCV
 Then activate that environment and navigate to your project folder using Anaconda Prompt.
 In the project folder, type the follwing commands:
 
-pip install pipenv
+> pip install pipenv
 
-pipenv install
+> pipenv install
 
-python main.py
+> python main.py
 
 Then open the browser and go to 127.0.0.1:5000.
 
